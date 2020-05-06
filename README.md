@@ -1,6 +1,6 @@
 # Udacity_Project1: A study of parameters influencing dissolved oxygen concentration in a stream waterbody in Florida
 
-Please follow the link for the for the blog post:-
+Please follow the link for the for the blog post:
 https://medium.com/@lilianli1986/a-study-of-parameters-influencing-dissolved-oxygen-concentration-in-a-stream-waterbody-in-florida-96f8038c170a
 
 Introduction
